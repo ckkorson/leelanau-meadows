@@ -1,0 +1,28 @@
+*{
+    font-family: "Goudy Bookletter 1911", sans-serif;
+    background-color: rgb(204, 243, 199);
+}
+
+.header-nav{
+    text-align: right;
+    background-color: rgb(151, 151, 80);
+}
+
+header {
+    position: fixed;
+    border-bottom: 10 px solid black;
+}
+
+li {
+    text-decoration: none;
+    display: inline;
+    padding: 10px;
+    margin-right: 10px;
+}
+
+header,
+footer {
+  height: 200px;
+  width: 100%;
+  line-height: 60px;
+}
